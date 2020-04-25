@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+.my{
+	/*  设置网页宽度*/
+	width:400px;
+	/* 统一字体大小 */
+	font-size:25px;
+	/*  将所要居中的内容做设置*/
+	padding-left:400px;
+	padding-top:195px;
+	
+}
+body{
+  background: url(2.jpg);
+  background-repeat: no-repeat; 
+ }

@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+body{
+	/*  设置网页宽度*/
+	width:350px;
+	/* 统一字体大小 */
+	font-size:20px;
+}
+.me{
+	/*  将所要居中的内容做设置*/
+	padding-left:100px;
+}
+.you{
+	/*  将所要居中的内容做设置*/
+	padding-left:30px;
+}
+.mine{
+	font-size:10px;
+	padding-left:30px;
+}
+.your{
+	/*  将所要居中的内容做设置*/
+	padding-left:150px;
+	font-size:15px;
+}

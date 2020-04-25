@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib" />
+      <root url="jar://F:/Jar/commons-logging-1.1.1.jar!/" />
+      <root url="jar://F:/Jar/fastjson-1.1.37.jar!/" />
+      <root url="jar://F:/Jar/core-3.3.2.jar!/" />
+      <root url="jar://F:/Jar/httpclient-4.3.3.jar!/" />
+      <root url="jar://F:/Jar/httpcore-4.3.2.jar!/" />
+      <root url="jar://F:/Jar/jackson-annotations-2.4.0.jar!/" />
+      <root url="jar://F:/Jar/jackson-core-2.4.2.jar!/" />
+      <root url="jar://F:/Jar/jackson-databind-2.4.2.jar!/" />
+      <root url="jar://F:/Jar/javase-3.3.2.jar!/" />
+      <root url="jar://F:/Jar/jsoup-1.7.2.jar!/" />
+      <root url="jar://F:/Jar/jstl-1.2.jar!/" />
+      <root url="jar://F:/Jar/mysql-connector-java-5.1.10-bin.jar!/" />
+      <root url="jar://F:/Jar/qr.jar!/" />
+      <root url="jar://F:/Jar/servlet-api-6.0.33.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib" recursive="false" />
+  </library>
+</component>
